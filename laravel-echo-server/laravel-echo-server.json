@@ -1,5 +1,5 @@
 {
-	"authHost": "localhost",
+	"authHost": "http://192.168.8.107",
 	"authEndpoint": "/broadcasting/auth",
 	"clients": [],
 	"database": "redis",
@@ -17,3 +17,4 @@
 	"sslCertPath": "",
 	"sslKeyPath": ""
 }
+ 
